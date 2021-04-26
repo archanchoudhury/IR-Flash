@@ -40,3 +40,6 @@ Automated Script to capture forensic evidences (logs) from an Windows EndPoint. 
   7. Run- "IR-dump.bat /f" (Also captures file system permissions (slow))
   8. Run- "IR-dump.bat /h" (Capures with windows file system hashes (very slow))
   9. Run- "IR-dump.bat /f /m /h" (All options above (Very Very Slow you probably don't want this), but can be done while needed)
+
+# Don't know the password for the log files ?
+  Watch the demo here 👉 https://youtu.be/6kOinwAB-BY
